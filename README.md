@@ -1,4 +1,4 @@
 # widgetgallery
 
-Practica 1 9A IDGSM.
+Practica 2 9A IDGSM.
 
